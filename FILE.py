@@ -17,6 +17,7 @@ CON=sol()
 
 file_name=[]
 ugen2=[]
+ugen1=[]
 logincookie=[]
 cekap=[]
 askc=[]
@@ -63,8 +64,8 @@ for xd in range(10000):
     i=random.randrange(1, 4)
     j=random.randrange(1, 4)
     k='Mobile Safari/535.1'
-    uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
-    ugen2.append(uaku)
+    uaku1=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
+    ugen1.append(uaku1)
     
     aa='Mozilla/5.0 (Linux; Android 10; SM-A750FN)'
     b=random.choice(['6','7','8','9','10','11','12'])
@@ -78,8 +79,8 @@ for xd in range(10000):
     j=random.randrange(4200,4900)
     k=random.randrange(40,150)
     l='Mobile Safari/537.36'
-    uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
-    ugen.append(uaku2)
+    uaku1=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
+    ugen1.append(uaku1)
 for x in range(10):
     a='Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S'
     b=random.randrange(100, 9999)
