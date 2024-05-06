@@ -5,5 +5,5 @@ THIS IS AN UPDATE VERISON OF OPEN SOURCE
 
 <br>
 <p align="center">
-<img width="100%" src="[https://github.com/CODE-WITH-MASKMAN/OPEN-SOURCE/blob/main/OPEN.png"/>
+<img width="100%" src="https://github.com/CODE-WITH-MASKMAN/OPEN-SOURCE/blob/main/OPEN.png"/>
 </p>
